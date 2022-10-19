@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Language Screens - JT</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btnSpanish">Spanish</string>
+    <string name="btnFrench">French</string>
+    <string name="btnEnglish">English</string>
+    <string name="tvTranslation">Pick a Language to Translate</string>
+    <string name="tvHello">Hello</string>
+    <string name="tvHola">Hola</string>
+    <string name="tvBonjour">Bonjour</string>
+</resources>
